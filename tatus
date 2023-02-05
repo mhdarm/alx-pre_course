@@ -1,0 +1,204 @@
+[33mcommit bd72f8cab25e8e497dea00685dd9d1b71a611fc1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 12:23:11 2023 -0800
+
+    .gitignore update
+
+[33mcommit f17dc4fd85d962bcec71bb7533504ceae3c635fe[m
+Merge: 50212af d60130f
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 12:04:21 2023 -0800
+
+    master
+
+[33mcommit d60130fb79080d8b6d94294125f61f539ac53aff[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 11:45:34 2023 -0800
+
+    Update script (#3)
+    
+    * My personal work
+    
+    * Hot fix
+    
+    * Delete 0x01-git/js directory
+    
+    * Create js
+    
+    * Delete js
+    
+    * My personal work
+    
+    * My personal work
+    
+    ---------
+    
+    Co-authored-by: mhdarm <mhdarmlry@yahoo.com>
+
+[33mcommit 50212afd7305bf85916f680f81c794b1b2687e40[m
+Merge: 3b7767e c48317f
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 11:34:07 2023 -0800
+
+    Merge branch 'master' of https://github.com/mhdarm/alx-pre_course
+
+[33mcommit 3b7767e40731eb23991ddf07c0a5ad476e6a78ad[m
+Merge: d798f01 8fe0eaf
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 11:33:22 2023 -0800
+
+    update_script
+
+[33mcommit c48317f2b751e6388267c93301bf852866a2f511[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 15:24:14 2023 +0000
+
+    Update up_to_date
+
+[33mcommit d798f016ce43ddabba486c9ae577d41c8945b517[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 07:18:51 2023 -0800
+
+    How to be up to date in git
+
+[33mcommit 0a64c049943ce7f24ddca381c559ca3fb9218ebe[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 15:08:47 2023 +0000
+
+    Update README.md
+
+[33mcommit 0fe94725600e3a5092fada81abad75470a21f116[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 06:58:57 2023 -0800
+
+    Hot fix
+
+[33mcommit 8fe0eaf17bc702343794120240d40c90e0588786[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 06:50:18 2023 -0800
+
+    My personal work
+
+[33mcommit 39a163730a3131b246ca64281fd0e51fb94d3447[m
+Merge: 5708a88 4a05043
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 06:32:14 2023 -0800
+
+    Merge branch 'master' of https://github.com/mhdarm/alx-pre_course
+
+[33mcommit 4a0504383134901a51cf7601a14a8d57680c7c02[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 04:41:28 2023 -0800
+
+    Revert "Update script (#1)" (#2)
+    
+    This reverts commit d08702674a4e4137200fef50f24f38b109cd733e.
+
+[33mcommit 5708a88db0e29449487984355173d2e30cf4bb13[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 03:54:58 2023 -0800
+
+    update_script
+
+[33mcommit 38bb94e716e238064617ce0e16b5871876a3074e[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 03:53:16 2023 -0800
+
+    update_script
+
+[33mcommit 8c3ef0ca6c98bac3f8639a6d82d8a6411a3f9bc0[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 03:41:12 2023 -0800
+
+    update_script
+
+[33mcommit 71d541c155fb6525049aa5ba67e5431140306b2e[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 11:27:23 2023 +0000
+
+    Delete 0x01-git/bash directory
+
+[33mcommit d08702674a4e4137200fef50f24f38b109cd733e[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 03:14:30 2023 -0800
+
+    Update script (#1)
+    
+    * Delete 0x01-git/js directory
+    
+    * Create js
+    
+    * Delete js
+
+[33mcommit 07772c885853e89a411ec355be278ab8c3e75ba4[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 02:29:39 2023 -0800
+
+    Hot fix
+
+[33mcommit f21afd71795711fc090f575239e87e62a57a91d9[m
+Merge: 58f5729 6ff3b52
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 02:22:16 2023 -0800
+
+    git commit -m "update_script"Merge branch 'update_script' of https://github.com/mhdarm/alx-pre_course into update_script
+
+[33mcommit 58f57295b8fb7ca2ef7634111646d14dc618163d[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Mon Jan 30 02:18:05 2023 -0800
+
+    My personal work
+
+[33mcommit 6ff3b522e6540b9fc27547972288e69af68ba591[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 09:11:12 2023 +0000
+
+    Delete js
+
+[33mcommit 1673ef578cc52229bb9ced35c3fb384a6578a755[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 09:10:52 2023 +0000
+
+    Create js
+
+[33mcommit b630472018461bc37a6f61a13633f4d08218d1bc[m
+Author: Mohammed Bin Dawuda Arimiyao <35075401+mhdarm@users.noreply.github.com>
+Date:   Mon Jan 30 09:09:24 2023 +0000
+
+    Delete 0x01-git/js directory
+
+[33mcommit 6a53da0c405bcf3c429802b75e2d4165c270bd01[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 17:01:39 2023 -0800
+
+    Hot fix
+
+[33mcommit ba5ade68d8aed56a076d76b6e8d3c5f44bf9eff6[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 16:50:42 2023 -0800
+
+    My personal work
+
+[33mcommit 8ca677c8abfa4524a90f2eb0ca8d947644b7c706[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 16:21:12 2023 -0800
+
+    Starting to code, so cool
+
+[33mcommit 4e14c5c2d30dddcf4fbd49a3631e5e9eef58f977[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 16:01:20 2023 -0800
+
+    Starting to code today, so cool
+
+[33mcommit c1b7e86b080a510ec0a890edc638e9f562b0c5bd[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 15:19:19 2023 -0800
+
+    My first commit
+
+[33mcommit 39508f6b0b5218d77513120a71e547a6882d9c5a[m
+Author: mhdarm <mhdarmlry@yahoo.com>
+Date:   Sun Jan 29 15:02:51 2023 -0800
+
+    My First commit
